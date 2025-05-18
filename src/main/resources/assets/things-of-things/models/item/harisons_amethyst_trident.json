@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "things-of-things:item/harisons_amethyst_trident"
+  }
+}

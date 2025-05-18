@@ -23,5 +23,17 @@
   "itemTooltip.things-of-things.abbys_day_changer": "Change the day to the night!",
 
   "item.things-of-things.abbys_night_changer": "Night Changer",
-  "itemTooltip.things-of-things.abbys_night_changer": "Change the night to the day!"
+  "itemTooltip.things-of-things.abbys_night_changer": "Change the night to the day!",
+
+  "item.things-of-things.kaidens_tom_foolery": "Secret Mask",
+  "itemTooltip.things-of-things.kaidens_tom_foolery": "A bit of tom foolery's going on...",
+
+  "item.things-of-things.bens_buffoonery": "Secret Shirt",
+  "itemTooltip.things-of-things.bens_buffoonery": "Whats this buffoonery!?",
+
+  "item.things-of-things.annicas_hellcamp": "The Hellcamp",
+  "itemTooltip.things-of-things.annicas_hellcamp": "A blade of the ages",
+
+  "item.things-of-things.harisons_amethyst_trident": "Amethyst Trident",
+  "itemTooltip.things-of-things.harisons_amethyst_trident": "FINALLY!!! A use for amethyst!!!"
 }

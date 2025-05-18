@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "things_of_things:kaidens_tom_foolery"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "things_of_things:kaidens_tom_foolery"
+      }
+    ]
+  }
+}

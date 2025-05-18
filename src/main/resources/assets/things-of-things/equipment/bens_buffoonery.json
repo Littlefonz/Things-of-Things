@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "things_of_things:bens_buffoonery"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "things_of_things:bens_buffoonery"
+      }
+    ]
+  }
+}
